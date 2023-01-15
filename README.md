@@ -11,7 +11,7 @@ It's basically a practice for CRUD operations in JavaScript.
 # Credits
 [MDN local library tutorial(Overview)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
 
-Most of the code is written by MDN, I only wrote some of them (delete book, copies, genre, some pug templates).
+Most of the code is written by MDN, I only wrote some of them (deleting and updating, and some pug templates).
 
 # Results
 ## C - Create books
